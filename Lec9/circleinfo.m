@@ -16,6 +16,6 @@ circ = 2 * pi * radius;
 area = pi * radius^2;
 
 % Display the result
-fprintf('Radius: %.2f\nCircumference: %.2f\nArea: %.2f\n', ...
+fprintf('Radius: %s\nCircumference: %.2f\nArea: %.2f\n', ...
     radius, circ, area)
 
